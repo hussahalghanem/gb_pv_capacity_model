@@ -1,0 +1,257 @@
+﻿Land Type,code
+1.1.1. Continuous urban fabric,111
+1.1.2. Discontinuous urban fabric,112
+1.2.1. Industrial or commercial units,121
+1.2.2. Road and rail networks and associated land,122
+1.2.3. Port areas,123
+1.2.4. Airports,124
+1.3.1. Mineral extraction sites,131
+1.3.2. Dump sites,132
+1.3.3. Construction sites,133
+1.4.1. Green urban areas,141
+1.4.2. Sport and leisure facilities,142
+2.1.1. Non-irrigated arable land,211
+2.1.2. Permanently irrigated land,212
+2.1.3. Rice fields,213
+2.2.1. Vineyards,221
+2.2.2. Fruit trees and berry plantations,222
+2.2.3. Olive groves,223
+2.3.1. Pastures,231
+2.4.1. Annual crops associated with permanent crops,241
+2.4.2. Complex cultivation patterns,242
+"2.4.3. Land principally occupied by agriculture, with significant areas of natural vegetation",243
+2.4.4. Agro-forestry areas,244
+3.1.1. Broad-leaved forest,311
+3.1.2. Coniferous forest,312
+3.1.3. Mixed forest,313
+3.2.1. Natural grassland,321
+3.2.2. Moors and heathland,322
+3.2.3. Sclerophyllous vegetation,323
+3.2.4. Transitional woodland-scrub,324
+"3.3.1. Beaches, dunes, sands",331
+3.3.2. Bare rocks,332
+3.3.3. Sparsely vegetated areas,333
+3.3.4. Burnt areas,334
+3.3.5. Glaciers and perpetual snow,335
+4.1.1. Inland marshes,411
+4.1.2. Peat bogs,412
+4.2.1. Salt marshes,421
+4.2.2. Salines,422
+4.2.3. Intertidal flats,423
+5.1.1. Water courses,511
+5.1.2. Water bodies,512
+5.2.1. Coastal lagoons,521
+5.2.2. Estuaries,522
+5.2.3. Sea and ocean,523
+1.1. Urban fabric,11
+"1.2. Industrial, commercial and transport units",12
+"1.3. Mine, dump and construction sites",13
+"1.4. Artificial, non-agricultural vegetated areas",14
+2.1. Arable land,21
+2.2. Permanent crops,22
+2.3. Pastures,23
+2.4. Heterogeneous agricultural areas,24
+3.1. Forests,31
+3.2. Scrub and/or herbaceous associations,32
+3.3. Open spaces with little or no vegetation,33
+4.1. Inland wetlands,41
+4.2. Marine wetlands,42
+5.1. Inland waters,51
+5.2. Marine waters,52
+1. Artificial Surfaces,1
+2. Agricultural Areas,2
+3. Forest And Seminatural Areas,3
+4. Wetlands,4
+5. Water Bodies,5
+1.1.1. Continuous urban fabric,111 (%)
+1.1.2. Discontinuous urban fabric,112 (%)
+1.2.1. Industrial or commercial units,121 (%)
+1.2.2. Road and rail networks and associated land,122 (%)
+1.2.3. Port areas,123 (%)
+1.2.4. Airports,124 (%)
+1.3.1. Mineral extraction sites,131 (%)
+1.3.2. Dump sites,132 (%)
+1.3.3. Construction sites,133 (%)
+1.4.1. Green urban areas,141 (%)
+1.4.2. Sport and leisure facilities,142 (%)
+2.1.1. Non-irrigated arable land,211 (%)
+2.1.2. Permanently irrigated land,212 (%)
+2.1.3. Rice fields,213 (%)
+2.2.1. Vineyards,221 (%)
+2.2.2. Fruit trees and berry plantations,222 (%)
+2.2.3. Olive groves,223 (%)
+2.3.1. Pastures,231 (%)
+2.4.1. Annual crops associated with permanent crops,241 (%)
+2.4.2. Complex cultivation patterns,242 (%)
+"2.4.3. Land principally occupied by agriculture, with significant areas of natural vegetation",243 (%)
+2.4.4. Agro-forestry areas,244 (%)
+3.1.1. Broad-leaved forest,311 (%)
+3.1.2. Coniferous forest,312 (%)
+3.1.3. Mixed forest,313 (%)
+3.2.1. Natural grassland,321 (%)
+3.2.2. Moors and heathland,322 (%)
+3.2.3. Sclerophyllous vegetation,323 (%)
+3.2.4. Transitional woodland-scrub,324 (%)
+"3.3.1. Beaches, dunes, sands",331 (%)
+3.3.2. Bare rocks,332 (%)
+3.3.3. Sparsely vegetated areas,333 (%)
+3.3.4. Burnt areas,334 (%)
+3.3.5. Glaciers and perpetual snow,335 (%)
+4.1.1. Inland marshes,411 (%)
+4.1.2. Peat bogs,412 (%)
+4.2.1. Salt marshes,421 (%)
+4.2.2. Salines,422 (%)
+4.2.3. Intertidal flats,423 (%)
+5.1.1. Water courses,511 (%)
+5.1.2. Water bodies,512 (%)
+5.2.1. Coastal lagoons,521 (%)
+5.2.2. Estuaries,522 (%)
+5.2.3. Sea and ocean,523 (%)
+1.1. Urban fabric,11 (%)
+"1.2. Industrial, commercial and transport units",12 (%)
+"1.3. Mine, dump and construction sites",13 (%)
+"1.4. Artificial, non-agricultural vegetated areas",14 (%)
+2.1. Arable land,21 (%)
+2.2. Permanent crops,22 (%)
+2.3. Pastures,23 (%)
+2.4. Heterogeneous agricultural areas,24 (%)
+3.1. Forests,31 (%)
+3.2. Scrub and/or herbaceous associations,32 (%)
+3.3. Open spaces with little or no vegetation,33 (%)
+4.1. Inland wetlands,41 (%)
+4.2. Marine wetlands,42 (%)
+5.1. Inland waters,51 (%)
+5.2. Marine waters,52 (%)
+1. Artificial Surfaces,1 (%)
+2. Agricultural Areas,2 (%)
+3. Forest And Seminatural Areas,3 (%)
+4. Wetlands,4 (%)
+5. Water Bodies,5 (%)
+1.1.1. Continuous urban fabric,111 (% EU)
+1.1.2. Discontinuous urban fabric,112 (% EU)
+1.2.1. Industrial or commercial units,121 (% EU)
+1.2.2. Road and rail networks and associated land,122 (% EU)
+1.2.3. Port areas,123 (% EU)
+1.2.4. Airports,124 (% EU)
+1.3.1. Mineral extraction sites,131 (% EU)
+1.3.2. Dump sites,132 (% EU)
+1.3.3. Construction sites,133 (% EU)
+1.4.1. Green urban areas,141 (% EU)
+1.4.2. Sport and leisure facilities,142 (% EU)
+2.1.1. Non-irrigated arable land,211 (% EU)
+2.1.2. Permanently irrigated land,212 (% EU)
+2.1.3. Rice fields,213 (% EU)
+2.2.1. Vineyards,221 (% EU)
+2.2.2. Fruit trees and berry plantations,222 (% EU)
+2.2.3. Olive groves,223 (% EU)
+2.3.1. Pastures,231 (% EU)
+2.4.1. Annual crops associated with permanent crops,241 (% EU)
+2.4.2. Complex cultivation patterns,242 (% EU)
+"2.4.3. Land principally occupied by agriculture, with significant areas of natural vegetation",243 (% EU)
+2.4.4. Agro-forestry areas,244 (% EU)
+3.1.1. Broad-leaved forest,311 (% EU)
+3.1.2. Coniferous forest,312 (% EU)
+3.1.3. Mixed forest,313 (% EU)
+3.2.1. Natural grassland,321 (% EU)
+3.2.2. Moors and heathland,322 (% EU)
+3.2.3. Sclerophyllous vegetation,323 (% EU)
+3.2.4. Transitional woodland-scrub,324 (% EU)
+"3.3.1. Beaches, dunes, sands",331 (% EU)
+3.3.2. Bare rocks,332 (% EU)
+3.3.3. Sparsely vegetated areas,333 (% EU)
+3.3.4. Burnt areas,334 (% EU)
+3.3.5. Glaciers and perpetual snow,335 (% EU)
+4.1.1. Inland marshes,411 (% EU)
+4.1.2. Peat bogs,412 (% EU)
+4.2.1. Salt marshes,421 (% EU)
+4.2.2. Salines,422 (% EU)
+4.2.3. Intertidal flats,423 (% EU)
+5.1.1. Water courses,511 (% EU)
+5.1.2. Water bodies,512 (% EU)
+5.2.1. Coastal lagoons,521 (% EU)
+5.2.2. Estuaries,522 (% EU)
+5.2.3. Sea and ocean,523 (% EU)
+1.1. Urban fabric,11 (% EU)
+"1.2. Industrial, commercial and transport units",12 (% EU)
+"1.3. Mine, dump and construction sites",13 (% EU)
+"1.4. Artificial, non-agricultural vegetated areas",14 (% EU)
+2.1. Arable land,21 (% EU)
+2.2. Permanent crops,22 (% EU)
+2.3. Pastures,23 (% EU)
+2.4. Heterogeneous agricultural areas,24 (% EU)
+3.1. Forests,31 (% EU)
+3.2. Scrub and/or herbaceous associations,32 (% EU)
+3.3. Open spaces with little or no vegetation,33 (% EU)
+4.1. Inland wetlands,41 (% EU)
+4.2. Marine wetlands,42 (% EU)
+5.1. Inland waters,51 (% EU)
+5.2. Marine waters,52 (% EU)
+1. Artificial Surfaces,1 (% EU)
+2. Agricultural Areas,2 (% EU)
+3. Forest And Seminatural Areas,3 (% EU)
+4. Wetlands,4 (% EU)
+5. Water Bodies,5 (% EU)
+1.1.1. Continuous urban fabric,111_percentage
+1.1.2. Discontinuous urban fabric,112_percentage
+1.2.1. Industrial or commercial units,121_percentage
+1.2.2. Road and rail networks and associated land,122_percentage
+1.2.3. Port areas,123_percentage
+1.2.4. Airports,124_percentage
+1.3.1. Mineral extraction sites,131_percentage
+1.3.2. Dump sites,132_percentage
+1.3.3. Construction sites,133_percentage
+1.4.1. Green urban areas,141_percentage
+1.4.2. Sport and leisure facilities,142_percentage
+2.1.1. Non-irrigated arable land,211_percentage
+2.1.2. Permanently irrigated land,212_percentage
+2.1.3. Rice fields,213_percentage
+2.2.1. Vineyards,221_percentage
+2.2.2. Fruit trees and berry plantations,222_percentage
+2.2.3. Olive groves,223_percentage
+2.3.1. Pastures,231_percentage
+2.4.1. Annual crops associated with permanent crops,241_percentage
+2.4.2. Complex cultivation patterns,242_percentage
+"2.4.3. Land principally occupied by agriculture, with significant areas of natural vegetation",243_percentage
+2.4.4. Agro-forestry areas,244_percentage
+3.1.1. Broad-leaved forest,311_percentage
+3.1.2. Coniferous forest,312_percentage
+3.1.3. Mixed forest,313_percentage
+3.2.1. Natural grassland,321_percentage
+3.2.2. Moors and heathland,322_percentage
+3.2.3. Sclerophyllous vegetation,323_percentage
+3.2.4. Transitional woodland-scrub,324_percentage
+"3.3.1. Beaches, dunes, sands",331_percentage
+3.3.2. Bare rocks,332_percentage
+3.3.3. Sparsely vegetated areas,333_percentage
+3.3.4. Burnt areas,334_percentage
+3.3.5. Glaciers and perpetual snow,335_percentage
+4.1.1. Inland marshes,411_percentage
+4.1.2. Peat bogs,412_percentage
+4.2.1. Salt marshes,421_percentage
+4.2.2. Salines,422_percentage
+4.2.3. Intertidal flats,423_percentage
+5.1.1. Water courses,511_percentage
+5.1.2. Water bodies,512_percentage
+5.2.1. Coastal lagoons,521_percentage
+5.2.2. Estuaries,522_percentage
+5.2.3. Sea and ocean,523_percentage
+1.1. Urban fabric,11_percentage
+"1.2. Industrial, commercial and transport units",12_percentage
+"1.3. Mine, dump and construction sites",13_percentage
+"1.4. Artificial, non-agricultural vegetated areas",14_percentage
+2.1. Arable land,21_percentage
+2.2. Permanent crops,22_percentage
+2.3. Pastures,23_percentage
+2.4. Heterogeneous agricultural areas,24_percentage
+3.1. Forests,31_percentage
+3.2. Scrub and/or herbaceous associations,32_percentage
+3.3. Open spaces with little or no vegetation,33_percentage
+4.1. Inland wetlands,41_percentage
+4.2. Marine wetlands,42_percentage
+5.1. Inland waters,51_percentage
+5.2. Marine waters,52_percentage
+1. Artificial Surfaces,1_percentage
+2. Agricultural Areas,2_percentage
+3. Forest And Seminatural Areas,3_percentage
+4. Wetlands,4_percentage
+5. Water Bodies,5_percentage

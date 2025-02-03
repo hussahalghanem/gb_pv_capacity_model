@@ -1,0 +1,17 @@
+mlflow
+scikit-learn
+pandas
+openpyxl
+lxml
+geopandas
+requests
+seaborn
+statsmodels
+xgboost
+plotly
+pycountry
+chart_studio
+ipywidgets
+notebook
+shap
+numpy

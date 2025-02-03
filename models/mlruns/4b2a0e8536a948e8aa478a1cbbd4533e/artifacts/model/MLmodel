@@ -1,0 +1,31 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+mlflow_version: 2.18.0
+model_size_bytes: 2792964
+model_uuid: e05fc8446e10452cb1cd50c4bde11394
+run_id: 4b2a0e8536a948e8aa478a1cbbd4533e
+signature:
+  inputs: '[{"type": "double", "name": "112_percentage", "required": true}, {"type":
+    "double", "name": "142_percentage", "required": true}, {"type": "double", "name":
+    "211_percentage", "required": true}, {"type": "double", "name": "11_percentage",
+    "required": true}, {"type": "double", "name": "13_percentage", "required": true},
+    {"type": "double", "name": "14_percentage", "required": true}, {"type": "double",
+    "name": "21_percentage", "required": true}, {"type": "double", "name": "1_percentage",
+    "required": true}, {"type": "double", "name": "2_percentage", "required": true},
+    {"type": "double", "name": "gva_pounds_million_75_percentage", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-12-18 17:38:55.852928'

@@ -1,0 +1,20 @@
+artifact_path: gbnormb1005
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.16
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 1.6.2
+mlflow_version: 2.18.0
+model_size_bytes: 2576462
+model_uuid: 1bba4756a9ab46e68576b0c88ea6253c
+run_id: 4b2a0e8536a948e8aa478a1cbbd4533e
+utc_time_created: '2024-12-18 17:39:00.717566'
